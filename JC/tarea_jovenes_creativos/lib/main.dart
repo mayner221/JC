@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
       home: Scaffold(
         appBar: AppBar(
           backgroundColor: Colors.black,
-          title: Text("Container y row"),
+          title: Text("Container y row."),
         ),
         body: Column(
           children: <Widget>[
